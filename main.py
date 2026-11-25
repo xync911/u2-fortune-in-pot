@@ -2,6 +2,8 @@
 
 The entry is a houseplant's fortune, at most 120 characters.
 It is written for a gardener judge, so the voice stays gentle and green.
+The leaves reach for light; the roots stay humble and patient.
+Water arrives on a Tuesday, right on schedule.
 """
 import os
 import shutil
